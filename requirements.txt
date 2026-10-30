@@ -1,0 +1,6 @@
+earthaccess
+xarray
+netCDF4
+dask
+matplotlib
+pandas
